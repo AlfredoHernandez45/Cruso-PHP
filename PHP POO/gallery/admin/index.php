@@ -16,4 +16,4 @@
             <?php include("includes/admin_content.php"); ?>
         </div>
         <!-- /#page-wrapper -->
-        <?php include("includes/footer.php");?>
+        <?php include("includes/footer.php");?> 
